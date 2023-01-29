@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'WordGrav',
-  author: 'Grav of Words',
-  email: 'contact@wordgrav.com',
+  author: 'Grav.',
+  email: 'in@wordgrav.com',
   link: 'https://wordgrav.com',
   description: 'Gravity of Words.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
