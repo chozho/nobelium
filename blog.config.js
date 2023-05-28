@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'WordGrav',
+  title: 'Grav.',
   author: 'Grav.',
-  email: 'in@wordgrav.com',
-  link: 'https://wordgrav.com',
+  email: 'in@grav.foo',
+  link: 'https://grav.foo',
   description: 'Gravity of Words.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://wordgrav.com/about',
+  socialLink: 'https://grav.foo/about',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
