@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Grav.',
   author: 'Grav.',
-  email: 'in@grav.foo',
+  email: 'g@grav.foo',
   link: 'https://grav.foo',
   description: 'Gravity of Words.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
