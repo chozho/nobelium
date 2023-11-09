@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'Grav.',
-  author: 'Grav.',
+  author: '大脚怪',
   email: 'g@grav.foo',
   link: 'https://grav.foo',
   description: 'Gravity of Words.',
